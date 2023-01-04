@@ -1,6 +1,6 @@
 # Simple calculator
 There is : 
-- addition, 
--subtraction, 
--multiplication, 
--division
+- addition ,
+- subtraction ,
+- multiplication ,
+- division
